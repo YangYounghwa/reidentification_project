@@ -1,5 +1,6 @@
 model_construct_ipy/runsdetect
 data/
 pri_sample/
+model_construct_ipy/runs/*
 
 
